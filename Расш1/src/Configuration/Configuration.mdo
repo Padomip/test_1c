@@ -33,4 +33,5 @@
   <defaultRoles>Role.Расш1_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.22</compatibilityMode>
   <roles>Role.Расш1_ОсновнаяРоль</roles>
+  <catalogs>Catalog.Расш1_fierst</catalogs>
 </mdclass:Configuration>
