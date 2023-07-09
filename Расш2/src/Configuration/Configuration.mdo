@@ -33,4 +33,5 @@
   <defaultRoles>Role.Расш2_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.22</compatibilityMode>
   <roles>Role.Расш2_ОсновнаяРоль</roles>
+  <documents>Document.Расш2_uytr</documents>
 </mdclass:Configuration>
