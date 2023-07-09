@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9e194b53-2114-4ae7-b551-faab6a661784">
+  <producedTypes>
+    <objectType typeId="193cda88-fdac-4b6e-8159-bd05e9028c59" valueTypeId="c7e12136-681c-46d4-9303-5605dbe24f2e"/>
+    <refType typeId="c35f7182-a94d-4252-a895-320438b84e51" valueTypeId="0a04efb6-e235-4763-aeba-526da02ade85"/>
+    <selectionType typeId="6d0335fa-dec6-428e-a815-d1914146d431" valueTypeId="af85082f-0969-4ef9-b822-1a325659f1fd"/>
+    <listType typeId="5871f36d-415b-420e-8999-2fcdcc7f38f6" valueTypeId="3d9078f7-c3b0-42ac-9aff-089217076e87"/>
+    <managerType typeId="d4db7205-e3fe-440a-ae8c-213a916cc3f5" valueTypeId="bd864021-b5b6-4189-a60a-fa8758c71c1d"/>
+  </producedTypes>
+  <name>Расш1_Документ1</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Расш1_Документ1.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
