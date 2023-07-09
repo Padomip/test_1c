@@ -33,6 +33,7 @@
   <defaultRoles>Role.Расш1_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.22</compatibilityMode>
   <roles>Role.Расш1_ОсновнаяРоль</roles>
+  <constants>Constant.Расш1_Константа</constants>
   <catalogs>Catalog.Расш1_fierst</catalogs>
   <catalogs>Catalog.Расш1_Справочник</catalogs>
   <documents>Document.Расш1_Документ</documents>
