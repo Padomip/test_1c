@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="389dc1f4-e7b4-4d87-827c-5a200beabc7f">
+  <name>Расш3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расш3</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <commandInterface>Extended</commandInterface>
+    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+    <defaultStyle>Extended</defaultStyle>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c6e4f9b1-3abf-44e3-a0d0-27069809c6a6"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="34d8a1a7-4b34-43d2-9491-35feba4eca06"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="f848cb88-95e8-481e-a6c5-15d7b5c51ae2"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="7f726419-3ff0-42db-81c3-4567fb630dab"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="953aa8a1-4e01-4e69-84fa-994869f96cd5"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="5d5aa38f-bbc8-4453-ad81-f1cc5e3cc1ba"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="779d44e3-1272-4933-979e-969f387d34dc"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>Расш3_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.Расш3_ОсновнаяРоль</defaultRoles>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <roles>Role.Расш3_ОсновнаяРоль</roles>
+</mdclass:Configuration>
