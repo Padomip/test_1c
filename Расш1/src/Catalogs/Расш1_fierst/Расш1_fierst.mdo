@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="edc62680-a7d3-48b6-a6d6-3669e498926a">
+  <producedTypes>
+    <objectType typeId="290fd2b2-ad51-44f0-b8d4-8b697f2de7b1" valueTypeId="01aec58b-d7d7-43b4-bfc3-178369de5f80"/>
+    <refType typeId="64e4af05-1aff-4757-a9f5-67a36a86672c" valueTypeId="447b80ca-d6a2-47a5-83bf-cc4ee7f9ffad"/>
+    <selectionType typeId="9adb8572-9f7f-466b-a61d-05418e2b944b" valueTypeId="b47c37c5-2380-4ff6-a4a4-2a119d980d0f"/>
+    <listType typeId="f2d0d85a-7b8e-428a-919c-4f1a4515891d" valueTypeId="b790e5c0-5744-4b65-a4e0-ab8842b26e76"/>
+    <managerType typeId="5e7558a8-ded7-42fa-a19a-6d0f458ceff0" valueTypeId="1d039997-897f-4c51-bb11-fcf4efeee3a8"/>
+  </producedTypes>
+  <name>Расш1_fierst</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Расш1_fierst.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Расш1_fierst.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
