@@ -33,4 +33,5 @@
   <defaultRoles>Role.Расш3_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.22</compatibilityMode>
   <roles>Role.Расш3_ОсновнаяРоль</roles>
+  <documents>Document.Расш3_qwet</documents>
 </mdclass:Configuration>
