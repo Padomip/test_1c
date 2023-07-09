@@ -35,6 +35,7 @@
   <roles>Role.Расш1_ОсновнаяРоль</roles>
   <catalogs>Catalog.Расш1_fierst</catalogs>
   <catalogs>Catalog.Расш1_Справочник</catalogs>
+  <catalogs>Catalog.ТестСправочник</catalogs>
   <documents>Document.Расш1_Документ</documents>
   <documents>Document.Расш1_Документ1</documents>
 </mdclass:Configuration>
